@@ -15,7 +15,11 @@ int main()
     }
     else if (a==b || b==c || b==c)
     {
-        printf("Scalen triangle");
+        printf("Isosceles triangle");
+    }
+    else
+    {
+        printf("Scalen Triangle");
     }
     return 0;
 }
